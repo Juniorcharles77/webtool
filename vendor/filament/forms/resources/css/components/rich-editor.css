@@ -1,0 +1,7 @@
+.dark .trix-button {
+    @apply border-gray-600 bg-gray-700 text-gray-200;
+}
+
+.dark .trix-button-group {
+    @apply border-gray-600;
+}

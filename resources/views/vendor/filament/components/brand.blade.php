@@ -1,0 +1,1 @@
+<img src="{{ asset('/static-backend/logo.png') }}" alt="Logo" class="h-10">
